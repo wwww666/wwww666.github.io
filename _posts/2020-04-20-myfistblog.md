@@ -2,12 +2,11 @@
 layout:     post
 title:      My first blog
 subtitle:   first blog
-date:       2018-06-05
+date:       2020-04-20
 author:     wzk
 header-img: img/post-bg-cook.jpg
 catalog: true
-tags:
-    - iOS
+
 ---
 
 ## 前言
