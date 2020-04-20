@@ -4,7 +4,7 @@ title:      My first blog
 subtitle:   first blog
 date:       2020-04-20
 author:     wzk
-header-img: img/home-bg-geek.jpg
+header-img: img/home-bg-o.jpg
 catalog: true
 
 ---
