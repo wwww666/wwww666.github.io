@@ -1,9 +1,9 @@
 # Site settings
-title: WWWZK Blog
+title: WZK Blog
 SEOTitle: wwwzk的博客 
 header-img: img/post-bg-desk.jpg
 email: w_06@foxmail.com
-description: "Stay hungry. Stay foolish."
+description: "Stay hungry.Stay foolish."
 keyword: "wwwzk,wwwzk blog,wwwzk的博客"
 url: "http://wwww666.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
